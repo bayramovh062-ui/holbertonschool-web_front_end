@@ -408,7 +408,7 @@ a:active {
 
 .card-work .card-outer{
 	position:relative;
-	overflow:hide;
+	overflow:hidden;
 }
 
 .card-work .card-image img{
